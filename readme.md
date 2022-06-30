@@ -7,3 +7,7 @@ Ini adalah sebuah website yang bernama _karyaku._ Website ini seperti website _p
 - `SANITY`
 
 Adapun pembuatan website ini terinspirasi dari channel youtube _javascript mastery_ yang membuat website serupa dan website ini saya fungsikan untuk menambah portfolio saya terutama dalam menggunakan teknologi `reactjs` dan `tailwindcss`
+
+## Tampilan Website
+
+![karyaku](karyaku.png)
